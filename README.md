@@ -1,2 +1,1 @@
-# bargle.github.io
-Static Web Content
+Nothing to see here.
