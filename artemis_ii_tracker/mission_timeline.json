@@ -106,7 +106,8 @@
     {
       "met": "3/00:12:00",
       "utc": "2026-04-04T22:46:03Z",
-      "label": "Outbound correction burn #2"
+      "label": "Outbound correction burn #2",
+      "status": "CANCELLED"
     },
     {
       "met": "3/03:40:00",
