@@ -93,6 +93,7 @@
       "utc": "2026-04-03T22:41:03Z",
       "label": "Outbound correction burn #1"
     },
+
     {
       "met": "2/02:05:00",
       "utc": "2026-04-04T00:39:03Z",
@@ -110,6 +111,11 @@
       "status": "CANCELLED"
     },
     {
+      "met": "2/19:59:00",
+      "utc": "2026-04-04T18:35:00Z",
+      "label": "Alignment Maneuver #1"
+    },    
+    {
       "met": "3/03:40:00",
       "utc": "2026-04-05T02:14:03Z",
       "label": "Lunar imaging plan review 1"
@@ -118,12 +124,7 @@
       "met": "3/05:45:00",
       "utc": "2026-04-05T04:19:03Z",
       "label": "Lunar imaging plan review 2"
-    },
-    {
-      "met": "3/19:59:00",
-      "utc": "2026-04-05T18:35:00Z",
-      "label": "Alignment Maneuver #1"
-    },    
+    },  
     {
       "met": "3/20:30:00",
       "utc": "2026-04-05T19:04:03Z",
