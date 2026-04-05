@@ -120,6 +120,11 @@
       "label": "Lunar imaging plan review 2"
     },
     {
+      "met": "3/19:59:00",
+      "utc": "2026-04-05T18:35:00Z",
+      "label": "Correction Maneuver #1"
+    },    
+    {
       "met": "3/20:30:00",
       "utc": "2026-04-05T19:04:03Z",
       "label": "Rapid spacesuit demo"
