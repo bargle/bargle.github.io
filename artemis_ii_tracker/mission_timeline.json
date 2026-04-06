@@ -93,7 +93,6 @@
       "utc": "2026-04-03T22:41:03Z",
       "label": "Outbound correction burn #1"
     },
-
     {
       "met": "2/02:05:00",
       "utc": "2026-04-04T00:39:03Z",
@@ -114,7 +113,7 @@
       "met": "2/19:59:00",
       "utc": "2026-04-04T18:35:00Z",
       "label": "Alignment Maneuver #1"
-    },    
+    },
     {
       "met": "3/03:40:00",
       "utc": "2026-04-05T02:14:03Z",
@@ -124,7 +123,7 @@
       "met": "3/05:45:00",
       "utc": "2026-04-05T04:19:03Z",
       "label": "Lunar imaging plan review 2"
-    },  
+    },
     {
       "met": "3/20:30:00",
       "utc": "2026-04-05T19:04:03Z",
@@ -144,11 +143,21 @@
       "met": "4/16:14:00",
       "utc": "2026-04-06T14:50:00Z",
       "label": "Flight Day 6 Crew Wake-Up"
-    },    
+    },
+    {
+      "met": "4/18:24:00",
+      "utc": "2026-04-06T17:00:00Z",
+      "label": "NASA Live Flyby Coverage Begins"
+    },
     {
       "met": "4/22:00:00",
       "utc": "2026-04-06T20:34:03Z",
       "label": "Lunar flyby observations begin"
+    },
+    {
+      "met": "4/18:54:00",
+      "utc": "2026-04-06T17:30:00Z",
+      "label": "Science Officer Briefs Crew on Flyby Goals"
     },
     {
       "met": "5/01:23:00",
@@ -156,9 +165,54 @@
       "label": "Closest lunar approach"
     },
     {
-      "met": "5/01:26:00",
-      "utc": "2026-04-07T00:00:03Z",
-      "label": "Maximum Earth distance"
+      "met": "4/19:20:00",
+      "utc": "2026-04-06T17:56:00Z",
+      "label": "Crew Surpasses Apollo 13 Distance Record"
+    },
+    {
+      "met": "4/19:39:00",
+      "utc": "2026-04-06T18:15:00Z",
+      "label": "Crew Configures Orion Cabin for Flyby Operations"
+    },
+    {
+      "met": "4/20:09:00",
+      "utc": "2026-04-06T18:45:00Z",
+      "label": "Lunar Observation Period Begins"
+    },
+    {
+      "met": "5/00:08:00",
+      "utc": "2026-04-06T22:44:00Z",
+      "label": "Loss of Signal — Orion Passes Behind the Moon"
+    },
+    {
+      "met": "5/00:26:00",
+      "utc": "2026-04-06T23:02:00Z",
+      "label": "Closest Approach to the Moon (4,070 mi)"
+    },
+    {
+      "met": "5/00:31:00",
+      "utc": "2026-04-06T23:07:00Z",
+      "label": "Maximum Distance from Earth (252,757 mi)"
+    },
+    {
+      "met": "5/00:49:00",
+      "utc": "2026-04-06T23:25:00Z",
+      "label": "Earthrise — Acquisition of Signal"
+    },
+    {
+      "met": "5/01:59:00",
+      "utc": "2026-04-07T00:35:00Z",
+      "label": "Solar Eclipse Begins (Sun Behind Moon from Orion)"
+    },
+    {
+      "met": "5/02:56:00",
+      "utc": "2026-04-07T01:32:00Z",
+      "label": "Solar Eclipse Ends"
+    },
+    {
+      "met": "5/03:04:00",
+      "utc": "2026-04-07T01:40:00Z",
+      "label": "Lunar Observation Period Ends"
     },
     {
       "met": "5/19:47:00",
