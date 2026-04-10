@@ -255,34 +255,44 @@
       "label": "Return correction burn #2"
     },
     {
-      "met": "8/20:33:00",
-      "utc": "2026-04-10T19:07:03Z",
-      "label": "Return correction burn #3"
+      "met": "8/16:59:00",
+      "utc": "2026-04-10T15:35:00Z",
+      "label": "Flight Day 10 Crew Wake-Up"
     },
     {
-      "met": "8/22:30:00",
-      "utc": "2026-04-10T21:04:03Z",
-      "label": "Entry checklist begins"
+      "met": "8/19:17:00",
+      "utc": "2026-04-10T17:53:00Z",
+      "label": "Return Trajectory Correction Burn 3 (RTC-3)"
     },
     {
-      "met": "9/01:13:00",
-      "utc": "2026-04-10T23:47:03Z",
-      "label": "Crew/service module separation"
+      "met": "8/22:29:00",
+      "utc": "2026-04-10T21:05:00Z",
+      "label": "Crew Begins Reentry Checklist"
     },
     {
-      "met": "9/01:16:00",
-      "utc": "2026-04-10T23:50:03Z",
-      "label": "Crew module raise burn"
+      "met": "8/23:54:00",
+      "utc": "2026-04-10T22:30:00Z",
+      "label": "NASA Live Return Coverage Begins"
     },
     {
-      "met": "9/01:33:00",
-      "utc": "2026-04-11T00:07:03Z",
-      "label": "Entry interface"
+      "met": "9/01:17:00",
+      "utc": "2026-04-10T23:53:00Z",
+      "label": "Communications Blackout Begins (Peak Heating, ~400,000 ft)"
     },
     {
-      "met": "9/01:46:00",
-      "utc": "2026-04-11T00:20:03Z",
-      "label": "Splashdown"
+      "met": "9/01:27:00",
+      "utc": "2026-04-11T00:03:00Z",
+      "label": "Drogue Parachute Deploy (~22,000 ft)"
+    },
+    {
+      "met": "9/01:28:00",
+      "utc": "2026-04-11T00:04:00Z",
+      "label": "Main Parachute Deploy (~6,000 ft)"
+    },
+    {
+      "met": "9/01:31:00",
+      "utc": "2026-04-11T00:07:00Z",
+      "label": "Splashdown — Pacific Ocean off San Diego"
     },
     {
       "met": "9/01:53:00",
